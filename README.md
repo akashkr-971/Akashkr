@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KL43-Vampire
+- 👋 Hi, I’m Akash kr
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Integrated master in computer application
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : akashkr971@gmail.com
 
 <!---
