@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash kr</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkr-971&label=Profile%20views&color=0e75b6&style=flat" alt="akashkr-971" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Household management system**
 
-- 🌱 I’m currently learning **React, springboot and Flutter**
+- 🌱 I’m currently learning **MERN and Flutter**
 
 - 📫 How to reach me **Akashkr971@gmail.com**
 
