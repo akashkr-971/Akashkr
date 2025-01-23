@@ -71,5 +71,6 @@
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkr-971&show_icons=true&locale=en&layout=compact" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkr-971&theme=radical" alt="GitHub Streak Stats" />
 </p>
+
