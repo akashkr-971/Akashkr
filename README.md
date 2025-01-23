@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 **Currently working on:** [Book Reading Companion](#)
+- 🔭 **Currently working on:** [Book Reading Companion](https://github.com/akashkr-971/Book-Reader)
 
 - 🌱 **Currently learning:** MERN stack and Flutter  
 
@@ -71,5 +71,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkr-971" alt="GitHub Streak" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkr-971&show_icons=true&locale=en&layout=compact" alt="GitHub Streak" />
 </p>
