@@ -11,9 +11,9 @@
 
 ---
 
-- 🔭 **Currently working on:** [Book Reading Companion](https://github.com/akashkr-971/Book-Reader)
+- 🔭 **Currently working on:** [Ai-Interview Agent](https://github.com/akashkr-971/Ai-interview-assistant)
 
-- 🌱 **Currently learning:** MERN stack and Flutter  
+- 🌱 **Currently learning:** NextJS and Flutter with supabase 
 
 - 📫 **How to reach me:** [Akashkr971@gmail.com](mailto:Akashkr971@gmail.com)  
 
@@ -25,6 +25,10 @@
   <a href="https://x.com/akashkr971" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" width="40" height="40"/></a>
   <a href="https://www.instagram.com/ig.akash_kr/"><img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram" width="40" height="40"/></a>
 </p>
+
+---
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akashkr-971&theme=github-compact)](https://github.com/akashkr-971)
 
 ---
 
