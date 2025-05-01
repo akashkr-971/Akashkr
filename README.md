@@ -78,3 +78,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkr-971&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
+---
+<h3 align="left">📊 Leetcode Stats:</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/akash_kr_971" alt="Top Languages" />
+</p>
+
