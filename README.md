@@ -13,7 +13,7 @@
 
 - 🔭 **Currently working on:** [Ai-Interview Agent](https://github.com/akashkr-971/Ai-interview-assistant)
 
-- 🌱 **Currently learning:** NextJS and Flutter with supabase 
+- 🌱 **Currently learning:** NextJS and Flutter with supabase along with firebase 
 
 - 📫 **How to reach me:** [Akashkr971@gmail.com](mailto:Akashkr971@gmail.com)  
 
