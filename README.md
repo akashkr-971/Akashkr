@@ -19,7 +19,7 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🌐 Connect with me :</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/akash-kr-kochi/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/></a>
   <a href="https://x.com/akashkr971" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" width="40" height="40"/></a>
