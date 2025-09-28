@@ -7,12 +7,11 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/akash-kr-kochi) 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ig.akash_kr)
-
-[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&logoColor=white)](https://x.com/akashkr971)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/akash-kr-kochi/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://x.com/akashkr971" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" width="40" height="40"/></a>
+  <a href="https://www.instagram.com/ig.akash_kr/"><img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram" width="40" height="40"/></a>
+</p>
 ---
 
 # 💻 Tech Stack:
