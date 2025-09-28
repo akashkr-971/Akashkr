@@ -32,7 +32,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Akashkr-971&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-align="left">📊 Leetcode Stats:</h3>
+<h3 align="left">📊 Leetcode Stats:</h3>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/akash_kr_971" alt="Top Languages" />
 </p>
