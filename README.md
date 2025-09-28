@@ -12,6 +12,7 @@
   <a href="https://x.com/akashkr971" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" width="40" height="40"/></a>
   <a href="https://www.instagram.com/ig.akash_kr/"><img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram" width="40" height="40"/></a>
 </p>
+
 ---
 
 # 💻 Tech Stack:
